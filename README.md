@@ -1,7 +1,9 @@
 # Articles
 Articles I read or plan to read, as well as useful links.
 
-
+![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  - read
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - not read
+![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) - almost read
 
 # 3D pose estimation
 
@@ -9,19 +11,20 @@ Articles I read or plan to read, as well as useful links.
 # Video
 
 
-1. Exploiting temporal information for 3d human pose estimation (eccv2018)
+1. ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)   Exploiting temporal information for 3d human pose estimation (eccv2018)
 
+   
    [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mir_Rayat_Imtiaz_Hossain_Exploiting_temporal_information_ECCV_2018_paper.pdf)]
 
 
 
-2. 3D human pose estimation in video with temporal convolutions and semi-supervised training (cvpr2019)
+2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  3D human pose estimation in video with temporal convolutions and semi-supervised training (cvpr2019)
 
    [[paper](https://arxiv.org/abs/1811.11742)][[code](https://github.com/facebookresearch/VideoPose3D)]
    [[project](https://dariopavllo.github.io/VideoPose3D)]
    
 
-3. Chirality Nets for Human Pose Regression (nips2019)
+3. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+)   Chirality Nets for Human Pose Regression (nips2019)
 
     [[paper](https://arxiv.org/abs/1911.00029)][[code](https://github.com/raymondyeh07/chirality_nets)]
     [[project](http://www.isle.illinois.edu/~yeh17/projects/chirality_nets/index.html)]
