@@ -206,7 +206,10 @@ https://github.com/TheDetial/Super-Resolution - more articles
    [[paper](http://wenxiusun.com/wordpress/wp-content/uploads/2019/10/Zeng_Deep_Surface_Normal_Estimation_With_Hierarchical_RGB-D_Fusion_CVPR_2019_paper.pdf)]
    [code]
    
+4. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+)  Deep Image Prior
 
+   [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf)]
+   [[code](https://github.com/DmitryUlyanov/deep-image-prior)]
 
 
 
@@ -214,15 +217,16 @@ https://github.com/TheDetial/Super-Resolution - more articles
 
 
 ## Knowledge 
-1. [Transformers understanding](http://jalammar.github.io/illustrated-transformer/)
-2. [Transformers pythorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec#3fa3)
-3. [GAN series](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
-4. [Object detection](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
-5. [Only Numpy: Implementing Convolutional Neural Network using Numpy](https://becominghuman.ai/only-numpy-implementing-convolutional-neural-network-using-numpy-deriving-forward-feed-and-back-458a5250d6e4)
-6. [Быстрая свертка по методу Шмуэля Винограда](https://m.habr.com/ru/post/477718/)
-7. [Вычислительная фотография](https://vas3k.ru/blog/computational_photography/)
-8. [Лекции NLA](https://docs.google.com/document/d/1nyzgdOuHI84oGLY2po1_Njq5qnamJByqNMXBfFHBoo0/edit)
-9. [ML, DL and other lectures](https://deep-learning-drizzle.github.io/)
+[Transformers understanding](http://jalammar.github.io/illustrated-transformer/)
+[How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+[Transformers pythorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec#3fa3)
+[GAN series](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+[Object detection](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
+[Only Numpy: Implementing Convolutional Neural Network using Numpy](https://becominghuman.ai/only-numpy-implementing-convolutional-neural-network-using-numpy-deriving-forward-feed-and-back-458a5250d6e4)
+[Быстрая свертка по методу Шмуэля Винограда](https://m.habr.com/ru/post/477718/)
+[Вычислительная фотография](https://vas3k.ru/blog/computational_photography/)
+[Лекции NLA](https://docs.google.com/document/d/1nyzgdOuHI84oGLY2po1_Njq5qnamJByqNMXBfFHBoo0/edit)
+[ML, DL and other lectures](https://deep-learning-drizzle.github.io/)
    
 ## Technical
 
