@@ -1,4 +1,4 @@
-Articles I read or plan to read, as well as useful links.
+Main articles I read or plan to read, as well as useful links.
 
 # Articles
 
