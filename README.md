@@ -30,7 +30,7 @@ https://github.com/trumDog/3d-human-pose-estimation - more information and artic
 
 
 
-3. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) GAST-Net: Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (arXiv2020)
+3. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) GAST-Net: Graph Attention Spatio-temporal Convolutional Networks for 3D Human Pose Estimation in Video (arXiv2020)
 
      [[paper](https://arxiv.org/abs/2003.14179)]
      [[code](https://github.com/fabro66/GAST-Net-3DPoseEstimation)]
@@ -77,7 +77,7 @@ https://posetrack.net/leaderboard.php -  main liderboard
    [[paper](https://arxiv.org/pdf/1912.02323.pdf)]
    [code]
 
-2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
+2. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
 
    [[paper](https://arxiv.org/pdf/1905.02822.pdf)]
    [[code](https://github.com/Guanghan/lighttrack)]
