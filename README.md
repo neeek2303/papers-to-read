@@ -150,38 +150,58 @@ using Cycle-Consistent Adversarial Networks (CycleGAN) (cvpr 2020)
 https://github.com/TheDetial/Super-Resolution - more articles 
 
 1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  High-Quality 3D Reconstruction With Depth Super-Resolution and Completion
+
    [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8628990)]
    [code]
 
-2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
-   [[paper](https://arxiv.org/pdf/1905.02822.pdf)]
-   [[code](https://github.com/Guanghan/lighttrack)]
+2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Channel Attention based Iterative Residual Learning for Depth Map Super-Resolution
+
+   [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_Channel_Attention_Based_Iterative_Residual_Learning_for_Depth_Map_Super-Resolution_CVPR_2020_paper.pdf)]
+   [code]
+   
+3. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Simultaneously Color-Depth Super-Resolution with Conditional Generative Adversarial Network   
+
+   [[paper](https://arxiv.org/pdf/1708.09105.pdf)]
+   [code]
+   
    
 
 ## Depth Enhancement 
 
-1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  15 Keypoints Is All You Need (cvpr 2020)
+1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Deep Depth Completion of a Single RGB-D Image
 
-   [[paper](https://arxiv.org/pdf/1912.02323.pdf)]
+   [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Depth_Completion_CVPR_2018_paper.pdf )]
    [code]
+   
+2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Learning Guided Convolutional Network for Depth Completion 
 
-2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking
-   [[paper](https://arxiv.org/pdf/1905.02822.pdf)]
-   [[code](https://github.com/Guanghan/lighttrack)]
+   [[paper](https://arxiv.org/pdf/1708.09105.pdf)]
+   [code]   
+   
+  
+
    
 ## Image Super Resolution
 
-1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)   To learn image super-resolution, use a GAN to learn how to do image degradation first
+1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) To learn image super-resolution, use a GAN to learn how to do image degradation first
    [[paper](https://arxiv.org/pdf/1807.11458.pdf)]
    [code]  
 
 ## Others
 
 1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  YOLACT++ Better Real-time Instance Segmentation 
-   [[paper](https://arxiv.org/pdf/1912.06218.pdf)]
-   [[code] (https://github.com/dbolya/yolact)]
 
-2. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+)  Deep Surface Normal Estimation with Hierarchical RGB-D Fusion
+   [[paper](https://arxiv.org/pdf/1912.06218.pdf)]
+   [[code](https://github.com/dbolya/yolact)]
+
+
+2. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  Deep High-Resolution Representation Learning for Human Pose Estimation 
+
+   [[paper](https://arxiv.org/pdf/1902.09212v1.pdf)]
+   [[code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)]
+   
+3. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+)  Deep Surface Normal Estimation with Hierarchical RGB-D Fusion
+
    [[paper](http://wenxiusun.com/wordpress/wp-content/uploads/2019/10/Zeng_Deep_Surface_Normal_Estimation_With_Hierarchical_RGB-D_Fusion_CVPR_2019_paper.pdf)]
    [code]
    
@@ -201,6 +221,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
 6. [Быстрая свертка по методу Шмуэля Винограда](https://m.habr.com/ru/post/477718/)
 7. [Вычислительная фотография](https://vas3k.ru/blog/computational_photography/)
 8. [Лекции NLA](https://docs.google.com/document/d/1nyzgdOuHI84oGLY2po1_Njq5qnamJByqNMXBfFHBoo0/edit)
+9. [ML, DL and other lectures](https://deep-learning-drizzle.github.io/)
    
 ## Technical
 
