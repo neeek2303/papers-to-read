@@ -1,12 +1,14 @@
-# Articles
 Articles I read or plan to read, as well as useful links.
+
+# Articles
+
 
 ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  - read
 ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) - glance
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - plan to read
 
 
-# 3D pose estimation
+## 3D pose estimation
 
 https://paperswithcode.com/task/3d-human-pose-estimation -  comparison
 
