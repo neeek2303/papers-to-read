@@ -227,6 +227,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
 8. [Вычислительная фотография](https://vas3k.ru/blog/computational_photography/)
 9. [Лекции NLA](https://docs.google.com/document/d/1nyzgdOuHI84oGLY2po1_Njq5qnamJByqNMXBfFHBoo0/edit)
 10. [ML, DL and other lectures](https://deep-learning-drizzle.github.io/)
+11. [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
    
 ## Technical
 
