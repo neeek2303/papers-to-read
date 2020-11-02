@@ -218,8 +218,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
 
 ## Knowledge 
 1. [Transformers understanding](http://jalammar.github.io/illustrated-transformer/)
-2. [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-2.1 [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
+2. [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/), [The Illustrated BERT, ELMo, and co.](http://jalammar.github.io/illustrated-bert/)
 3. [Transformers pythorch](https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec#3fa3)
 4. [GAN series](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 5. [Object detection](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
