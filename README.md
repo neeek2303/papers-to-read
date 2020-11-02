@@ -228,6 +228,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
 9. [Лекции NLA](https://docs.google.com/document/d/1nyzgdOuHI84oGLY2po1_Njq5qnamJByqNMXBfFHBoo0/edit)
 10. [ML, DL and other lectures](https://deep-learning-drizzle.github.io/)
 11. [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+12. [Collection of the best ML resources by topic](https://madewithml.com/topics/?fbclid=IwAR0VSQDUySd9saxuoS486M58z7LmDaP5S8cGao6HO4RV5Obw9Mnyo_z_RI8)
    
 ## Technical
 
