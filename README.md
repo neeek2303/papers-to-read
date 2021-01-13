@@ -211,6 +211,12 @@ https://github.com/TheDetial/Super-Resolution - more articles
    [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf)]
    [[code](https://github.com/DmitryUlyanov/deep-image-prior)]
 
+5. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+)  An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+
+   [[paper](https://arxiv.org/abs/2010.11929)]
+   [[code](https://github.com/google-research/vision_transformer)]
+   
+
 
 
 # Usefull links
@@ -230,6 +236,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
 11. [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 12. [Collection of the best ML resources by topic](https://madewithml.com/topics/?fbclid=IwAR0VSQDUySd9saxuoS486M58z7LmDaP5S8cGao6HO4RV5Obw9Mnyo_z_RI8)
 13. [The Entire Computer Science Curriculum in 1000 YouTube Videos](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+14. [GCN understanding](https://www.topbots.com/graph-convolutional-networks/)
    
 ## Technical
 
