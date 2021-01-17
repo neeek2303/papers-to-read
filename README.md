@@ -216,6 +216,11 @@ https://github.com/TheDetial/Super-Resolution - more articles
    [[paper](https://arxiv.org/abs/2010.11929)]
    [[code](https://github.com/google-research/vision_transformer)]
    
+6. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) Taming Transformers for High-Resolution Image Synthesis
+
+   [[paper]](https://arxiv.org/pdf/2012.09841.pdf)
+   [[code]](https://compvis.github.io/taming-transformers/)
+   
 
 
 
