@@ -164,6 +164,12 @@ https://github.com/TheDetial/Super-Resolution - more articles
    [[paper](https://arxiv.org/pdf/1708.09105.pdf)]
    [code]
  
+ 
+4. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Multi-Scale Progressive Fusion Learning for Depth Map Super-Resolution
+
+   [[paper](https://arxiv.org/pdf/2011.11865.pdf)]
+   [code] 
+   
 #### [RGBD datasets](http://www.michaelfirman.co.uk/RGBDdatasets/) 
    
 
@@ -219,9 +225,12 @@ https://github.com/TheDetial/Super-Resolution - more articles
 6. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) Taming Transformers for High-Resolution Image Synthesis
 
    [[paper]](https://arxiv.org/pdf/2012.09841.pdf)
-   [[code]](https://compvis.github.io/taming-transformers/)
+   [[code]]()
    
+6. ![#e1ac06](https://via.placeholder.com/15/e1ac06/000000?text=+) Densely Connected Convolutional Networks
 
+   [[paper]](https://arxiv.org/pdf/1608.06993.pdf)
+   [[code]]()
 
 
 # Usefull links
