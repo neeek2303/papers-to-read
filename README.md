@@ -170,6 +170,10 @@ https://github.com/TheDetial/Super-Resolution - more articles
    [[paper](https://arxiv.org/pdf/2011.11865.pdf)]
    [code] 
    
+5. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) Feedback Network for Image Super-Resolution  
+   [[paper](https://arxiv.org/pdf/1903.09814.pdf)]
+   [code] 
+   
 #### [RGBD datasets](http://www.michaelfirman.co.uk/RGBDdatasets/) 
    
 
