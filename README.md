@@ -192,6 +192,7 @@ https://github.com/TheDetial/Super-Resolution - more articles
   
 
    
+   
 ## Image Super Resolution
 
 1. ![#37ea0f](https://via.placeholder.com/15/37ea0f/000000?text=+) To learn image super-resolution, use a GAN to learn how to do image degradation first
